@@ -15,4 +15,7 @@ be enabled when the values for both the Bill Amount and the Tip Amount are fille
 
 Let's code!
 
+![iPhone](http://i1066.photobucket.com/albums/u411/moralesalberto1/tipCalculator.png)
+
+
 
