@@ -22,14 +22,14 @@
 		B63F381415A0F35A0049EB3D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B63F381615A0F35A0049EB3D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B63F381815A0F35A0049EB3D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		B63F381C15A0F35A0049EB3D /* myTipCalculator-Info.plist */ = {isa = PBXFileReference; path = "myTipCalculator-Info.plist"; sourceTree = "<group>"; };
+		B63F381C15A0F35A0049EB3D /* myTipCalculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myTipCalculator-Info.plist"; sourceTree = "<group>"; };
 		B63F381E15A0F35A0049EB3D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B63F382015A0F35A0049EB3D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B63F382215A0F35A0049EB3D /* myTipCalculator-Prefix.pch */ = {isa = PBXFileReference; path = "myTipCalculator-Prefix.pch"; sourceTree = "<group>"; };
-		B63F382315A0F35A0049EB3D /* TIP_AppDelegate.h */ = {isa = PBXFileReference; path = TIP_AppDelegate.h; sourceTree = "<group>"; };
+		B63F382215A0F35A0049EB3D /* myTipCalculator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "myTipCalculator-Prefix.pch"; sourceTree = "<group>"; };
+		B63F382315A0F35A0049EB3D /* TIP_AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TIP_AppDelegate.h; sourceTree = "<group>"; };
 		B63F382415A0F35A0049EB3D /* TIP_AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TIP_AppDelegate.m; sourceTree = "<group>"; };
 		B63F382715A0F35A0049EB3D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		B63F382915A0F35A0049EB3D /* TIP_ViewController.h */ = {isa = PBXFileReference; path = TIP_ViewController.h; sourceTree = "<group>"; };
+		B63F382915A0F35A0049EB3D /* TIP_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TIP_ViewController.h; sourceTree = "<group>"; };
 		B63F382A15A0F35A0049EB3D /* TIP_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TIP_ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
